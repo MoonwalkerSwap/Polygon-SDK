@@ -1,5 +1,11 @@
 # 🚀 Polygon MoonWalkerSwap SDK
 
+Install NPM Package.
+
+```sh
+npm i polygon-moonwalker-sdk
+```
+
 ## Running tests
 
 To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
